@@ -1,4 +1,4 @@
-base = int(input())
-height = int(input())
-area = base*height/2
-print (area)
+horizontal = int(input())
+vertical = int(input())
+sum = horizontal + vertical
+print (sum)
